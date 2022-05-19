@@ -1,13 +1,8 @@
-# rbiswas4-rparimi2-sj44-stzeng2
-
 ## How to run our code:
 
 1) Open terminal and use git clone to get access to our repository:
-    ```
-    git clone https://github-dev.cs.illinois.edu/cs225-fa21/rbiswas4-rparimi2-sj44-stzeng2.git
-    ```
 
-2) Navigate to the root directory of our repository: rbiswas4-rparimi2-sj44-stzeng2
+2) Navigate to the root directory of our repository
 
 
 3) Run `make all` in terminal to compile the code for running algorithms or `make bfs`, `make dijkstra`, `make betweenness` for a singular algorithm
